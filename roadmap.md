@@ -1,4 +1,4 @@
-##Version 2.0
+##Version 2.0 (release date tbd)
 
 * Location sync with Marvin for iPad, iPhone and iPod touch.
 * Compatibility improvements with future iOS versions.
